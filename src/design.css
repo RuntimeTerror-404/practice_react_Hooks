@@ -1,0 +1,21 @@
+.design1 {
+  margin: auto;
+  margin-top: 100px;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 40vh;
+  width: 30vw;
+  background-color: rgb(214, 176, 183);
+  border:1px solid black;
+  box-shadow: 0 10px 10px 0 red;
+}
+
+.design2 {
+  background-color: green;
+  border-radius: 10px;
+  padding: 15px;
+  text-align: center;
+  color: white;
+}
