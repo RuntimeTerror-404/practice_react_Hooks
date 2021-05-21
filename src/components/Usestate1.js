@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import "./design.css";
+import "./designn.css";
 
-const App = () => {
+const Usestate1 = () => {
   const [count, setCount] = useState(1);
 
   const IncNum = () => {
@@ -19,4 +19,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default Usestate1;

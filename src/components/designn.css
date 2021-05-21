@@ -1,0 +1,66 @@
+.design1 {
+  margin: auto;
+  margin-top: 100px;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 40vh;
+  width: 30vw;
+  background-color: rgb(214, 176, 183);
+  border: 2px solid black;
+  box-shadow: 5px 10px 10px 0 rgb(218, 126, 172);
+}
+
+.design2 {
+  background-color: rgb(12, 75, 104);
+  border-radius: 10px;
+  padding: 15px;
+  text-align: center;
+  color: white;
+}
+
+.mark {
+  background-color: rgb(156, 156, 201);
+  color: aqua;
+  border: 2px solid black;
+  border-style: ridge;
+}
+
+.heading1 {
+  margin: auto;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  height: 70vh;
+  width: 40vw;
+  align-items: center;
+  justify-content: center;
+  background-color: cornsilk;
+  border: 3px double red;
+}
+
+.calculator{
+  background-color: rgb(240, 202, 202);
+  height: 400px;
+  width: 400px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin: auto;
+  margin-top: 100px;
+  border: 2px ridge blueviolet;
+  box-shadow: 0 5px 10px 0 greenyellow;
+}
+
+.btn{
+  background-color: lightblue;
+  color: black;
+  border: 2px solid rgb(126, 22, 22);
+  border-radius: 10px;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  margin-left: 50px;
+}
